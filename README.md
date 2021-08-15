@@ -37,7 +37,7 @@ Given the large scope of the program I decided to build I am not surprised I had
 
 There is one known bug I simply do not have the time to fix right now. Sometimes, when _View Profile_ is clicked for a particular Player, the last Player that was viewed is shown instead of the current one. However, when the user pressed _Back_ and tries a second time everything works alright. I have an idea as to why this is happening but will not be fixing it before submitting this assignment. Too bad! Haha
 
-## Collaborators
+## Contributors
 
 - [Kelvin Kellner](https://github.com/kelvinkellner/)
 
