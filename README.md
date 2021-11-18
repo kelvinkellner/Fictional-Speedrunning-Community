@@ -31,7 +31,7 @@ The Access database relationships are pictured below:
 
 <img src="./assets/Picture1.png" alt="Access database relationships" max-width="100%" />
 
-Admittedly, some of the code used in this program is disorganized. In a perfect world, it would be preferred to go back and refactor various features of the app to improve readability and computer run time, however their only so much time and it is even more preferred to hand assignments in on time :)
+Admittedly, some of the code used in this program is disorganized. In a perfect world, it would be preferred to go back and refactor various features of the app to improve readability and computer run time, however there is only so much time and it is even more preferred to hand assignments in before the deadline :)
 
 Given the large scope of the program I decided to build I am not surprised I had to rush some portions, but all the features I was hoping to add are functioning and complete, and that’s what matters!
 
