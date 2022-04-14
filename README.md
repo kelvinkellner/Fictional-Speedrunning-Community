@@ -23,7 +23,7 @@ I enjoy playing video games with my friends and I also spend a lot of time watch
 
 Now, I was simply sitting at my desk pondering about ideas for applications that could be implemented using a few simple Access database tables. When the concept of a speedrunning community came to mind, I knew it was the perfect idea for me to build for this assignment!
 
-The entirety of the Game is implemented in the Main Excel Workbook. There is a _Main_ module which simply shows the Log In or Sign Up prompt, from there, the actions of the user dictates the flow of the program. All other code is included in each of the various Userforms. The _frmMain_ Userform contains a few important global variables used by the other Userforms. The program is designed to be modular, meaning there are a few public Subs that are contained in one Userform but used by other Userforms.
+The entirety of the program is implemented in the Main Excel Workbook. There is a _Main_ module which simply shows the Log In or Sign Up prompt, from there, the actions of the user dictates the flow of the program. All other code is included in each of the various Userforms. The _frmMain_ Userform contains a few important global variables used by the other Userforms. The program is designed to be modular, meaning there are a few public Subs that are contained in one Userform but used by other Userforms.
 
 Data is not stored in global Arrays, rather, each time the program needs dataset it makes an SQL Query to the database and pulls the information it needs to a record sheet.
 
